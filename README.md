@@ -6,7 +6,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a proud mom of 4 ... animals
 <div align="center">
-    <img src="https://ibb.co/PgVNLmj" alt="Background" width="100%" />
+
+    <img src="https://i.ibb.co/vst5W0Q/0cbbc518fbc05473313fe4c851063a1b.jpg" alt="0cbbc518fbc05473313fe4c851063a1b" border="0" width="100%" />
 </div>
 
 <!---
