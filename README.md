@@ -5,10 +5,7 @@
 - 📫 How to reach me: Telegram - @anastasiiadmytruk
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a proud mom of 4 ... animals
-<div align="center">
-
-    <img src="https://i.ibb.co/vst5W0Q/0cbbc518fbc05473313fe4c851063a1b.jpg" alt="0cbbc518fbc05473313fe4c851063a1b" border="0" width="100%" />
-</div>
+![0cbbc518fbc05473313fe4c851063a1b](https://github.com/user-attachments/assets/51feed3e-1c77-4601-9e37-0f4844223ce6)
 
 <!---
 AnastasiiaDmytruk/AnastasiiaDmytruk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
